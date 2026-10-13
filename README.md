@@ -2,4 +2,5 @@
 ### We are exploring an ECG experiment 
 
 My first git repository 
-Use a Biomedical Engineering experiment 
+Use a Biomedical Engineering data selection practice  
+* The experiment is done at Royal Free hospital 

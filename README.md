@@ -5,5 +5,5 @@ My first git repository
 Use a Biomedical Engineering ECG experiment
 * The 1st experiment was done at UCLH
 * The 2nd experiment was done at Royal Free Hospital
-* The 3rd is in Whitinghton Hospital
+* The 3rd is in Whittington Hospital
 *  

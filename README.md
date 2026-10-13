@@ -2,5 +2,5 @@
 ### We are exploring an ECG experiment 
 
 My first git repository 
-Use a Biomedical Engineering data selection practice  
+Use a Biomedical Engineering ECG experiment
 * The experiment is done at UCLH

@@ -3,4 +3,5 @@
 
 My first git repository 
 Use a Biomedical Engineering ECG experiment
-* The experiment is done at UCLH
+* The 1st experiment was done at UCLH
+* The 2nd experiment was done at Royal Free Hopsital 
